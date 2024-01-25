@@ -1,4 +1,1 @@
--- Snoix 
--- Discord is snoix.
--- Roblox is TheSnoix
--- Skid issue
+
